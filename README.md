@@ -39,11 +39,14 @@ Demonstrates logic, performance, and clean code.
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-Java, Spring Boot, HTML, CSS, JavaScript, Angular
+**Backend:**  
+Java, Spring Boot, Spring Cloud, Docker
+
+**In the process of learning:**
+Containerization & orchestration (Docker Compose, Kubernetes, Helm), observability and monitoring (Prometheus, Grafana, Loki, Tempo, Promtail), messaging systems (Kafka, RabbitMQ, Spring Cloud Stream), and microservices security (OAuth2, OpenID Connect, Spring Security).
 
 **Databases:**  
-MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, DB2
+PostgreSQL, MongoDB, MySQL, Oracle, Microsoft SQL Server, DB2.
 
 **Tools & Platforms:**  
 Git, Docker, Docker Compose, Swagger, Postman
