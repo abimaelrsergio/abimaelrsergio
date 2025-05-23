@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
+### 📦 [consulta-creditos-app](https://github.com/abimaelrsergio/consulta-creditos-app)
+Fullstack app to query tax credit information by invoice or credit number.  
+Includes a Spring Boot API, Angular front-end, PostgreSQL, Kafka, and full Docker Compose setup.
+
 ### 🔧 [devices_api](https://github.com/abimaelrsergio/devices_api)
 A RESTful API for managing devices, built with **Spring Boot** and **MySQL**.  
 Includes full Docker support, Swagger documentation, and Postman tests.
