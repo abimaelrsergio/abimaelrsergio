@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 A financial control system with CRUD features, business logic, and REST endpoints.  
 Implements clean architecture and unit testing. This project uses the following technologies: Java, Spring Boot, Spring Cloud, Docker, containerization & orchestration (Docker Compose, Kubernetes, Helm), observability and monitoring (Prometheus, Grafana, Loki, Tempo, Promtail), messaging systems (Kafka, RabbitMQ, Spring Cloud Stream), and microservices security (OAuth2, OpenID Connect, Spring Security), PostgreSQL, MongoDB, MySQL, Oracle, Microsoft SQL Server, DB2. 
 
+<!---
 ### 📦 [consulta-creditos-app](https://github.com/abimaelrsergio/consulta-creditos-app)
 Fullstack app to query tax credit information by invoice or credit number.  
 Includes a Spring Boot API, Angular front-end, PostgreSQL, Kafka, and full Docker Compose setup.
@@ -38,16 +39,13 @@ Includes full Docker support, Swagger documentation, and Postman tests.
 ### 📘 [data-structures-algorithms](https://github.com/abimaelrsergio/data-structures-algorithms)
 Classic data structures and algorithm challenges solved in Java.  
 Demonstrates logic, performance, and clean code.
-
+--->
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend:**  
-Java, Spring Boot, Spring Cloud, Docker
-
-**In the process of learning:**
-Containerization & orchestration (Docker Compose, Kubernetes, Helm), observability and monitoring (Prometheus, Grafana, Loki, Tempo, Promtail), messaging systems (Kafka, RabbitMQ, Spring Cloud Stream), and microservices security (OAuth2, OpenID Connect, Spring Security).
+Java, Spring Boot, Spring Cloud, Docker, containerization & orchestration (Docker Compose, Kubernetes, Helm), observability and monitoring (Prometheus, Grafana, Loki, Tempo, Promtail), messaging systems (Kafka, RabbitMQ, Spring Cloud Stream), and microservices security (OAuth2, OpenID Connect, Spring Security).
 
 **Databases:**  
 PostgreSQL, MongoDB, MySQL, Oracle, Microsoft SQL Server, DB2.
