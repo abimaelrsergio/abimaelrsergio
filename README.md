@@ -74,9 +74,5 @@ Linux, Windows
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abimaelrsergio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
----
-
 > ⚡ I’m always open to exciting opportunities and challenges in software development.
 > Let's build something great together!
