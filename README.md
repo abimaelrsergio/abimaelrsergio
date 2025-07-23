@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
+### 📊 [Bank](https://github.com/abimaelrsergio/bank)
+A financial control system with CRUD features, business logic, and REST endpoints.  
+Implements clean architecture and unit testing. This project uses the following technologies: Java, Spring Boot, Spring Cloud, Docker, containerization & orchestration (Docker Compose, Kubernetes, Helm), observability and monitoring (Prometheus, Grafana, Loki, Tempo, Promtail), messaging systems (Kafka, RabbitMQ, Spring Cloud Stream), and microservices security (OAuth2, OpenID Connect, Spring Security), PostgreSQL, MongoDB, MySQL, Oracle, Microsoft SQL Server, DB2. 
+
 ### 📦 [consulta-creditos-app](https://github.com/abimaelrsergio/consulta-creditos-app)
 Fullstack app to query tax credit information by invoice or credit number.  
 Includes a Spring Boot API, Angular front-end, PostgreSQL, Kafka, and full Docker Compose setup.
@@ -30,10 +34,6 @@ Includes a Spring Boot API, Angular front-end, PostgreSQL, Kafka, and full Docke
 ### 🔧 [devices_api](https://github.com/abimaelrsergio/devices_api)
 A RESTful API for managing devices, built with **Spring Boot** and **MySQL**.  
 Includes full Docker support, Swagger documentation, and Postman tests.
-
-### 📊 [Bank](https://github.com/abimaelrsergio/bank)
-A financial control system with CRUD features, business logic, and REST endpoints.  
-Implements clean architecture and unit testing. This project uses the following technologies: Java, Spring Boot, Spring Cloud, Docker, containerization & orchestration (Docker Compose, Kubernetes, Helm), observability and monitoring (Prometheus, Grafana, Loki, Tempo, Promtail), messaging systems (Kafka, RabbitMQ, Spring Cloud Stream), and microservices security (OAuth2, OpenID Connect, Spring Security), PostgreSQL, MongoDB, MySQL, Oracle, Microsoft SQL Server, DB2. 
 
 ### 📘 [data-structures-algorithms](https://github.com/abimaelrsergio/data-structures-algorithms)
 Classic data structures and algorithm challenges solved in Java.  
