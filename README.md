@@ -69,8 +69,8 @@ Linux, Windows
 
 ## 📫 Contact
 
-📧 abimael.sergio@gmail.com  
 🔗 [LinkedIn – abimaelrsergio](https://www.linkedin.com/in/abimaelsergio/)
+📧 abimael.sergio@gmail.com  
 
 ---
 
